@@ -1,3 +1,4 @@
-Hej!
 En ny rad
+En ny rad till
+Nytt text på slutet
 
